@@ -1,2 +1,2 @@
 # test-301-tue
-For the Tuesday Lab for CMPUT 301
+This is for the Tuesday Lab
